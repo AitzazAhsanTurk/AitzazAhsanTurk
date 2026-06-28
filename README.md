@@ -132,16 +132,6 @@ Outside of coding, I enjoy cricket, mentoring students, and continuously learnin
 
 ---
 
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&theme=radical&hide_border=false&layout=compact)
-
----
-
 # ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -150,7 +140,7 @@ Outside of coding, I enjoy cricket, mentoring students, and continuously learnin
 
 # 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aitzaz-ahsan)
+[![LinkedIn](www.linkedin.com/in/aitzaz-ahsan-)
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitzaza501@gmail.com)
 
